@@ -1,3 +1,3 @@
 # wiki-neuro, the official ETIS Lab neurocybernetics group's wiki 
 
-wiki-neuro is based on [https://github.com/scragg0x/realms-wiki](realms-wiki)
+wiki-neuro is based on [realms-wiki](https://github.com/scragg0x/realms-wiki)
