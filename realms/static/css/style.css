@@ -333,10 +333,11 @@ h4, .h4 {
 
 div.column {
     display: table-cell;
-    width: auto;
+    width: 33vw;
     padding: 10px;
+    padding-right: 50px;
     border-left: 5px solid #d8e1f3;
-    background: rgba(219, 225, 243, 0.07);
+    background: none;
     border-radius: 0;
     border-top-right-radius: 15px;
 }
