@@ -337,6 +337,10 @@ div.column > h1 {
     margin:0;
 }
 
+div.column > h3 {
+    margin: 0px 6px 9px 7px;
+}
+
 a {
     color:#4f85b5;
 }
