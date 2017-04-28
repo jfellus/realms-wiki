@@ -314,3 +314,18 @@ a.label {
   }
 }
 
+/** WIKI-NEURO */
+
+div.column {
+    display: table-cell;
+    width: auto;
+    padding: 10px;
+    border-left: 5px solid #d8e1f3;
+    background: rgba(219, 225, 243, 0.07);
+    border-radius: 0;
+    border-top-right-radius: 15px;
+}
+
+div.column > h1 {
+    margin:0;
+}
