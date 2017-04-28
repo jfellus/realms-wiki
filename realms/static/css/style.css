@@ -329,3 +329,10 @@ div.column {
 div.column > h1 {
     margin:0;
 }
+
+a {
+    color:#4f85b5;
+}
+a:hover, a:focus {
+    color:#4f85b5;
+}
