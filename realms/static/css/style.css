@@ -337,6 +337,11 @@ div.column > h1 {
     margin:0;
 }
 
+div.column > h2 {
+    background:none;
+    margin: 0px 6px 9px 7px;
+}
+
 div.column > h3 {
     margin: 0px 6px 9px 7px;
 }
