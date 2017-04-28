@@ -60,7 +60,7 @@ var markdownit = window.markdownit({
   permalinkClass: 'header-anchor',
   permalinkSymbol: '¶',
   permalinkBefore: false
-});
+}).use(markdownitContainer, 'column');
 
 // Markdown Renderer
 var MDR = {

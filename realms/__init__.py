@@ -242,6 +242,7 @@ assets.register('main.js',
                 'vendor/js-yaml/dist/js-yaml.js',
                 'vendor/markdown-it/dist/markdown-it.js',
                 'vendor/markdown-it-anchor/index.0',
+                'vendor/markdown-it-container/dist/markdown-it-container.min.js',
                 'js/html-sanitizer-minified.js',  # don't minify?
                 'vendor/highlightjs/highlight.pack.js',
                 'vendor/parsleyjs/dist/parsley.js',
@@ -304,4 +305,3 @@ cli = AppGroup()
 
 # Decorator to be used in modules instead of click.group
 cli_group = functools.partial(click.group, cls=AppGroup)
-
