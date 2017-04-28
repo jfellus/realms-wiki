@@ -337,7 +337,7 @@ div.column {
     width: 33vw;
     padding: 10px;
     padding-right: 50px;
-    border-left: 5px solid #d8e1f3;
+    border-left: 5px solid rgba(216, 225, 243, 0.24);
     background: none;
     border-radius: 0;
     border-top-right-radius: 15px;
