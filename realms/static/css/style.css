@@ -323,6 +323,14 @@ h2, .h2 {
     padding: 5px;
 }
 
+h4, .h4 {
+    font-size: 17px;
+    color: #909090;
+    border-bottom: 3px solid #bfbfbf;
+    display: inline-block;
+    margin: 4px 10px 4px 15px;
+}
+
 div.column {
     display: table-cell;
     width: auto;
