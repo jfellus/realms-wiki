@@ -316,6 +316,13 @@ a.label {
 
 /** WIKI-NEURO */
 
+
+h2, .h2 {
+    font-size: 32px;
+    background: linear-gradient(to right, rgba(228, 237, 249, 0.33), transparent);
+    padding: 5px;
+}
+
 div.column {
     display: table-cell;
     width: auto;
